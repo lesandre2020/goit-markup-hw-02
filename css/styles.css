@@ -1,4 +1,9 @@
-.header:hover,
-.header:focus {
+.header-nav:hover,
+.header-nav:focus {
+  color: #2196f3;
+}
+
+.header-contacts:hover,
+.header-contacts:focus {
   color: #2196f3;
 }
