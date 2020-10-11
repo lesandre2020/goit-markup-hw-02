@@ -1,29 +1,31 @@
 body {
+  background-color: #ffffff;
   color: #212121;
 }
 
-p {
+p,
+.contacts {
   color: #757575;
 }
 
-ul {
+footer {
+  background-color: #2f303a;
+}
+
+.list {
   list-style: none;
 }
 
-.header-logo {
-  color: #212121;
+.logo {
+  color: #000000;
 }
 
-.header-span {
-  color: blue;
+.logo-span {
+  color: #2196f3;
 }
 
 .header-nav {
   color: #212121;
-}
-
-.header-contacts {
-  color: #757575;
 }
 
 .header-nav:hover,
@@ -31,19 +33,22 @@ ul {
   color: #2196f3;
 }
 
-.header-contacts:hover,
-.header-contacts:focus {
-  color: #2196f3;
+.main-section {
+  background-color: #2f303a;
 }
 
 .main-title {
   color: #ffffff;
 }
 
-.main-button {
-  color: #ffffff;
+.main-content {
+  background-color: #e5e5e5;
+}
+
+.main-command {
+  background-color: #f5f4fa;
 }
 
 .footer-contacts {
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.6);
 }
