@@ -11,6 +11,9 @@ body {
 
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 p {
@@ -19,9 +22,6 @@ p {
 
 footer {
   background-color: #2f303a;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.71;
 }
 
 button {
@@ -38,6 +38,7 @@ button {
   font-family: Raleway, cursive;
   font-size: 26px;
   line-height: 1.19;
+  text-decoration: none;
 }
 
 .logo-span {
@@ -51,6 +52,7 @@ button {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .contacts {
@@ -91,6 +93,7 @@ button {
 
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 }
 
 .button {
@@ -101,6 +104,7 @@ button {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
+  text-decoration: none;
 }
 
 .button-portfolio {
@@ -147,12 +151,6 @@ button {
   text-transform: uppercase;
 }
 
-.main-content p {
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.71;
-}
-
 .main-command h3 {
   font-weight: 500;
   font-size: 16px;
@@ -165,4 +163,8 @@ button {
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
+}
+
+.main-portfolio a {
+  text-decoration: none;
 }
