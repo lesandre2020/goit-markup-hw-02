@@ -3,8 +3,7 @@ body {
   color: #212121;
 }
 
-p,
-.contacts {
+p {
   color: #757575;
 }
 
@@ -26,6 +25,10 @@ footer {
 
 .header-nav {
   color: #212121;
+}
+
+.contacts {
+  color: #757575;
 }
 
 .header-nav:hover,
@@ -51,4 +54,19 @@ footer {
 
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
+}
+
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.button-portfolio {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+
+.button-portfolio:hover,
+.button-portfolio:focus {
+  background-color: #2196f3;
 }
