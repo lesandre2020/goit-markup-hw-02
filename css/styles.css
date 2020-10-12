@@ -173,3 +173,7 @@ button {
 .main-portfolio h2 {
   color: #000000;
 }
+
+.hide {
+  visibility: hidden;
+}
