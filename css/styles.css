@@ -120,6 +120,7 @@ button {
 .button-portfolio:hover,
 .button-portfolio:focus {
   background-color: var(--accent-color);
+  color: var(--white-color);
 }
 
 .main-section .main-title {
