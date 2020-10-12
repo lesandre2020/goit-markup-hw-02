@@ -168,3 +168,7 @@ button {
 .main-portfolio a {
   text-decoration: none;
 }
+
+.main-portfolio h2 {
+  color: #000000;
+}
