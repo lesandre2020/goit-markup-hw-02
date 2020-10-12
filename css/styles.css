@@ -74,6 +74,8 @@ button {
 
 .main-title {
   color: var(--white-color);
+  font-style: normal;
+  text-decoration: none;
 }
 
 .main-content {
@@ -94,6 +96,7 @@ button {
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+  font-style: normal;
 }
 
 .button {
